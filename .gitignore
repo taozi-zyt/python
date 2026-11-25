@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.py[cod]
+*.log
+final_board.png
+*.part.mp4
+.DS_Store
+Thumbs.db
